@@ -1,6 +1,7 @@
 {
   "name": "deloitte-react-dec-2023",
   "version": "0.1.0",
+  "author": {"name": "Vaman Deshmukh"},
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
